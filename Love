@@ -1,0 +1,15 @@
+<button onclick="popup.showModal()">
+Нажми :3
+</button>
+<dialog id="popup">
+<form method="dialog">
+<p>Приветик! Нажми на кнопочку, малыш</p>
+<head>
+<meta http-equiv="Content type" content="text/html; charset=utf-8">
+<title>love you</title>
+</head>
+<body>
+    <p><a href="http://postimg.su/image/Oi8r3M4p/1000108870.jpg">сюда!</a></p>
+</body>
+</form>
+</dialog>
